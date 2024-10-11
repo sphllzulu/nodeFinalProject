@@ -62,4 +62,4 @@ User Profile Route (/users/:id): Returns a dynamic profile page for a user based
 Use the Render dashboard to check logs or debug any errors that may occur.
 Go to your service on the Render dashboard, click on Logs to view real-time logs.
 Deployment
-The application is live at: [https://your-app-name.onrender.com] (replace with your actual deployed URL).
+The application is live at: [https://serverdeployment-fm64.onrender.com] (replace with your actual deployed URL).
